@@ -9,3 +9,5 @@ This project takes an image and generates a description.
 ## Run
 pip install -r requirements.txt
 streamlit run app.py
+## 📸 Output
+![App Screenshot](screenshot.png)
